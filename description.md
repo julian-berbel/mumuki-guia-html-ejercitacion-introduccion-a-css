@@ -1,1 +1,1 @@
-Ejercitación introductoria a CSS.
+Ejercitación de Layut.
