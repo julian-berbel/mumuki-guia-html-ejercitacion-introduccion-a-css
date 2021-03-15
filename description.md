@@ -1,1 +1,1 @@
-Ejercitación de Layut.
+Ejercitación de Layout.
