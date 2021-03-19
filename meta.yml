@@ -8,8 +8,8 @@ language: html
 id_format: "%05d"
 order:
 - 2
-- 3
 - 5
+- 3
 - 9
 - 8
 - 7
